@@ -10,7 +10,7 @@
     outline: none;
 }
 body{
-    background: url("./Background.jpg") no-repeat fixed;
+    background: url("../../Assets/Background.jpg") no-repeat fixed;
     background-size: cover;
 }
 header{
